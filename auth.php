@@ -1,4 +1,4 @@
 <?php
-echo "You are login";
+echo "You are login. please checkout for update";
 
 ?>
