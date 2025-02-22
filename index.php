@@ -59,7 +59,7 @@ background-color:red;
 <body>
 <div class="login-container">
 <H2>Login</H2>
-<form method="post" action="">
+<form method="post" action="auth.php">
     <label for="username">Username:</label>
     <input type="text" name='username' id="username" class="inputtext" required>
     
