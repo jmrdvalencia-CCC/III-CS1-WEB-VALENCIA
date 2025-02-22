@@ -59,7 +59,7 @@ background-color:red;
 <body>
 <div class="login-container">
 <H2>Login</H2>
-<form>
+<form method="post" action="">
     <label for="username">Username:</label>
     <input type="text" name='username' id="username" class="inputtext" required>
     
